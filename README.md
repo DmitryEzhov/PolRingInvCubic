@@ -27,10 +27,10 @@ $$
 * degree 4:
 
 $$
-\begin{multline}
+\begin{aligned}
 J_3=&24Qf+16a^2m^2-48a^2hn-16abdm+24abeh+144acgh-16acmn-48ad^2g+24aden-8ae^2m\\
 &-48b^2ch+16b^2d^2-16bcdn+24bcem-8bde^2-48c^2gm+16c^2n^2+24cdeg-8ce^2n+e^4;
-\end{multline}
+\end{aligned}
 $$
 
 
