@@ -12,6 +12,7 @@ $$
 * degree 1: $g, n, m, h$;
 
 * degree 3:
+
 $$
 \begin{aligned}
 Q&=6bhn-2bm^2+6dgm-2dn^2-9egh+emn,\\
@@ -24,6 +25,7 @@ $$
 
 
 * degree 4:
+
 $$
 \begin{multline}
 J_3=&24Qf+16a^2m^2-48a^2hn-16abdm+24abeh+144acgh-16acmn-48ad^2g+24aden-8ae^2m\\
