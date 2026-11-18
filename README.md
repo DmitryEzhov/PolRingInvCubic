@@ -1,9 +1,13 @@
 ## Polynomial Ring of Invariants of Cubic
 
 Full form of cubic:
-$$
+
+```math
+\[
 F(x,y)=f+ax+cy+bx^2+exy+dy^2+gx^3+nx^2y+mxy^2+hy^3
-$$
+\]
+
+```
 
 #39 generators of ring:
 
