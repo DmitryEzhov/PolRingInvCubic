@@ -1,5 +1,6 @@
 ## Polynomial Ring of Invariants of Cubic
 
+
 **Form of cubic:**
 
 $$
@@ -18,7 +19,7 @@ $$
 Q&=6bhn-2bm^2+6dgm-2dn^2-9egh+emn\\
 K_{52}&=12agm-4an^2-4b^2m+4ben-3e^2g\\
 K_{43}&=36agh-4amn-12b^2h+8bdn+12cgm-4cn^2-12deg+e^2n\\
-K_{34}&=36cgh-4cmn-12d^2g+8bdm-12beh-4am^2+12ahn+e^2m\\
+K_{34}&=36cgh-4cmn-12d^2g+8bdm+12ahn-4am^2-12beh+e^2m\\
 K_{25}&=12chn-4cm^2-4d^2n+4dem-3e^2h
 \end{aligned}
 $$
@@ -54,6 +55,9 @@ $$
 
 
 **72 syzygies:** in `syzygies.tex`
+
+
+**Open questions:** completeness and hsop
 
 
 **Link:** [Preprint](https://zenodo.org/records/24284862)
