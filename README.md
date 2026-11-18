@@ -1,18 +1,17 @@
 ## Polynomial Ring of Invariants of Cubic
 
-Full form of cubic:
+**Form of cubic:**
 
-```math
+$$
 F(x,y)=f+ax+cy+bx^2+exy+dy^2+gx^3+nx^2y+mxy^2+hy^3
+$$
 
-```
 
-##39 generators of ring:
+**39 generators of ring:**
 
 * degree 1: $g, n, m, h$;
 
 * degree 3:
-
 $$
 \begin{aligned}
 Q&=6bhn-2bm^2+6dgm-2dn^2-9egh+emn,\\
@@ -25,17 +24,13 @@ $$
 
 
 * degree 4:
-
 $$
 \begin{multline}
-J_3=24Qf+16a^2m^2-48a^2hn-16abdm+24abeh+144acgh-16acmn-48ad^2g+24aden\\
--8ae^2m-48b^2ch+16b^2d^2-16bcdn+24bcem-8bde^2-48c^2gm+16c^2n^2+24cdeg-8ce^2n+e^4;
+J_3=&24Qf+16a^2m^2-48a^2hn-16abdm+24abeh+144acgh-16acmn-48ad^2g+24aden-8ae^2m\\
+&-48b^2ch+16b^2d^2-16bcdn+24bcem-8bde^2-48c^2gm+16c^2n^2+24cdeg-8ce^2n+e^4;
 \end{multline}
 $$
 
 
 
-
-
-## Link:
-[Preprint](https://zenodo.org/records/24284862)
+**Link:** [Preprint](https://zenodo.org/records/24284862)
